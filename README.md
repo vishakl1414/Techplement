@@ -18,5 +18,3 @@ Build a Quote of the Day website that will show users a random quote from an API
 
 You are free to use any programming language, framework, and database for this task.
 
-### Repository Structure
-
